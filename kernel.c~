@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
+#include<stdbool.h>
+
+#define ll long long
+typedef int* point;
+
+int main(int argc,char** argv){
+      
+}
