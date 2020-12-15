@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 #include<stdbool.h>
-#define Dyn template<class C>
+
 #define ll long long
 typedef int* point;
 
@@ -11,9 +11,6 @@ struct Number{
   int num2;
   
 };
-
-
-void file_read(char*name,
 
 
 int main(int argc,char** argv){
